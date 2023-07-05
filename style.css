@@ -5,8 +5,10 @@
 }
 nav{
     display: flex;
+    height: 80px;
     align-items: center;
     justify-content: space-between;
+    padding-inline: 100px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 nav ul{
